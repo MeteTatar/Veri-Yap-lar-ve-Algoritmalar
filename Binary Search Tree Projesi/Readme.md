@@ -10,7 +10,7 @@
 
 burada rootumuz 6 yı alarak ağacımızı oluşturalım
 
-            6            ---> root düğümümüz 6
+            6            ---> Root düğümümüz 6
           /   \
          3     8          
         / \   / \

@@ -43,4 +43,3 @@ Adım 2 ---> [2,3,4,8,7,9,5,15,6] - ikinci adımda ise 4 ile 5 yer değiştirir 
 Adım 3 ---> [2,3,4,5,7,9,8,15,6] - üçüncü adımda 5 ve 8 yer değiştirir
 
 Adım 4 ---> [2,3,4,5,6,9,8,15,7] - dördüncü adımda 7 ve 6 yer değiştirir
-
